@@ -138,6 +138,7 @@ schema_list:
   - schema: quick5
   - schema: xqjz
   - schema: xqzm
+  - schema: scj6
 switcher:
   abbreviate_options: true
   caption: "〔方案選單〕"
